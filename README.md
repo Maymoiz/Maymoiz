@@ -33,10 +33,10 @@ Crafting dark‑mode, neon‑lit digital experiences — from React apps and AI 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FF00FF&center=true&vCenter=true&width=500&lines=GitHub+Stats+%F0%9F%92%AB" />
 <div>
   <span>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maymoiz&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" width="200" src="https://github-readme-stats.vercel.app/api?username=maymoiz&show_icons=true&theme=tokyonight&hide_border=true" />
 </span>
 <span>
-<img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maymoiz&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maymoiz&layout=compact&theme=tokyonight&hide_border=true" />
 </span>
 </div>
 </div>
