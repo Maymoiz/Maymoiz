@@ -14,7 +14,7 @@
 
 ---
 
-# ⚡ **Animated GitHub Stats**
+# ⚡ **GitHub Stats**
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=maymoiz&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -23,7 +23,7 @@
 
 ---
 
-# 🧬 **Animated Glowing Tech‑Stack Icons**
+# 🧬 **Animated Tech icons**
 
 <p align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-# 🧊 **Glassmorphism Profile Card**
+# 🧊 ** Profile Card**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maymoiz&theme=tokyonight&hide_border=true" />
@@ -57,7 +57,7 @@
 
 ---
 
-# 🗂️ **Animated Project Sections**
+# 🗂️ ** Project Sections**
 
 ## ⚛️ React Projects
 <p align="center">
@@ -136,7 +136,7 @@
 
 ---
 
-# 🌌 **Neon Cyberpunk Footer**
+# 🌌 ** Footer**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=FF00F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!; Let's+build+something+amazing+with+AI+and+React." />
