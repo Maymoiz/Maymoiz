@@ -32,9 +32,9 @@ Crafting dark‑mode, neon‑lit digital experiences — from React apps and AI 
 <!-- ANIMATED HEADER -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FF00FF&center=true&vCenter=true&width=500&lines=GitHub+Stats+%F0%9F%92%AB" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moishandlovu&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maymoiz&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moishandlovu&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maymoiz&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -113,7 +113,7 @@ Crafting dark‑mode, neon‑lit digital experiences — from React apps and AI 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%94%AE" />
 
 **Email:** moishamayndlovu@gmail.com  
-**LinkedIn:** *(add link)*  
-**Portfolio:** *(add link)*  
+**LinkedIn:** https://www.linkedin.com/in/moishandlovu/ 
+  
 
 </div>
