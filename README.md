@@ -6,7 +6,7 @@
 
 <br/>
 
-Crafting dark‑mode, neon‑lit digital experiences — from React apps and AI tools to creative web projects that make learning smarter and more accessible.
+Frontend developer & AI enthusiast crafting scalable, user‑friendly applications with React, Python, and clean architecture.
 
 <br/><br/>
 
