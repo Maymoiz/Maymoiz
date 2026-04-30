@@ -36,7 +36,7 @@ Crafting dark‑mode, neon‑lit digital experiences — from React apps and AI 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=maymoiz&show_icons=true&theme=tokyonight&hide_border=true" />
 </span>
 <span>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maymoiz&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maymoiz&layout=compact&theme=tokyonight&hide_border=true" />
 </span>
 </div>
 </div>
