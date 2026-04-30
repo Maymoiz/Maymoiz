@@ -1,54 +1,68 @@
-<!-- HEADER -->
-<div align="center">
+<!-- 🚀 ULTIMATE ANIMATED CYBERPUNK + GLASSMORPHISM README -->
 
-<!-- ANIMATED TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Moisha+Ndlovu;Frontend+Developer;Data+Science+Student;UI+Minimalist;Building+Neon+Dark+Mode+Experiences" />
+<!-- 🔥 ANIMATED HOLOGRAPHIC BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Moesha+Ndlovu;Frontend+Developer+%7C+AI+Enthusiast;React+%7C+Python+%7C+Clean+Architecture;Building+AI-Powered+Learning+Experiences" />
+</p>
 
-<br/>
-
-Frontend developer & AI enthusiast crafting scalable, user‑friendly applications with React, Python, and clean architecture.
-
-<br/><br/>
-
-<!-- BADGES -->
-<img src="https://img.shields.io/badge/Frontend_Developer-000000?style=for-the-badge&logo=javascript&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00eaff" />
-<img src="https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logoColor=ff00ff" />
-<img src="https://img.shields.io/badge/UI%2FUX-Minimalist-000000?style=for-the-badge&logoColor=ffea00" />
-
-<br/><br/>
-
-<!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2" width="100%" />
-
-</div>
+<!-- 🌌 HOLOGRAPHIC BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Developer-%2300eaff?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend%20Engineer-%23ff00f7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%238b00ff?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## ⚡ **Animated GitHub Stats**
+# ⚡ **Animated GitHub Stats**
 
-<div align="center">
-
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=FF00FF&center=true&vCenter=true&width=500&lines=GitHub+Stats+%F0%9F%92%AB" />
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maymoiz&show_icons=true&theme=tokyonight&hide_border=true&height=100" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maymoiz&layout=compact&theme=tokyonight&hide_border=true&height=500" />
-
-</div>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moishandlovu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moishandlovu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🗂️ **Projects by Tech Stack**
+# 🧬 **Animated Glowing Tech‑Stack Icons**
+
+<p align="center">
+
+<!-- React -->
+<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=00eaff" width="60" style="filter: drop-shadow(0 0 12px #00eaff);" />
+
+<!-- JavaScript -->
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=f7e018" width="60" style="filter: drop-shadow(0 0 12px #f7e018);" />
+
+<!-- Python -->
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=4B8BBE" width="60" style="filter: drop-shadow(0 0 12px #4B8BBE);" />
+
+<!-- HTML -->
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=ff4500" width="60" style="filter: drop-shadow(0 0 12px #ff4500);" />
+
+<!-- CSS -->
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=00aaff" width="60" style="filter: drop-shadow(0 0 12px #00aaff);" />
+
+<!-- Node.js -->
+<img src="https://img.icons8.com/?size=100&id=54087&format=png&color=3C873A" width="60" style="filter: drop-shadow(0 0 12px #3C873A);" />
+
+</p>
 
 ---
 
-## ⚛️ **React Projects**
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=600&color=00E5FF&width=500&lines=Component-driven+%7C+Neon+UI+%7C+API+Powered" />
+# 🧊 **Glassmorphism Profile Card**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moishandlovu&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🗂️ **Animated Project Sections**
+
+## ⚛️ React Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Projects-%2300eaff?style=for-the-badge" />
+</p>
 
 - **LuminaHub‑React** — React productivity & learning interface  
 - **Dictionary‑App** — React + API + audio + images  
@@ -56,8 +70,10 @@ Frontend developer & AI enthusiast crafting scalable, user‑friendly applicatio
 
 ---
 
-## 🟨 **JavaScript Projects**
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=600&color=39FF14&width=500&lines=Dynamic+UI+%7C+APIs+%7C+Interactive+Features" />
+## 🟨 JavaScript Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Projects-%23f7e018?style=for-the-badge" />
+</p>
 
 - **moisha‑weather‑app** — Real‑time weather app  
 - **Dictionary‑App** — JavaScript + API  
@@ -68,8 +84,10 @@ Frontend developer & AI enthusiast crafting scalable, user‑friendly applicatio
 
 ---
 
-## 🧩 **HTML Projects**
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=600&color=FF00FF&width=500&lines=Creative+Layouts+%7C+Dark+Mode+Friendly" />
+## 🧩 HTML Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Projects-%23ff4500?style=for-the-badge" />
+</p>
 
 - **BlueMatic_MemoryGame** — Interactive memory game  
 - **My‑portfolio‑project** — Personal portfolio  
@@ -83,40 +101,49 @@ Frontend developer & AI enthusiast crafting scalable, user‑friendly applicatio
 
 ---
 
-## 🍽️ **CSS Projects**
+## 🍽️ CSS Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS-Projects-%2300aaff?style=for-the-badge" />
+</p>
+
 - **mo‑s‑recipe‑generator** — Creative recipe generator  
 
 ---
 
-## 🐍 **Python Projects**
+## 🐍 Python Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Projects-%234B8BBE?style=for-the-badge" />
+</p>
+
 - **Py‑tools‑homework** *(Private)* — Python tools  
 
 ---
 
-## 🏆 **Hackathon Projects**
+## 🏆 Hackathon Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackathon-Projects-%238b00ff?style=for-the-badge" />
+</p>
+
 - **Raise_your_Hack_Hackathon** — Forked hackathon project  
 
 ---
 
-<div align="center">
+# 🌱 **Currently Learning**
+- Advanced React patterns  
+- Data science workflows  
+- UI/UX design systems  
+- AI‑powered learning tools  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2" width="100%" />
+---
 
-<!-- ANIMATED LEARNING SECTION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00FFA3&center=true&vCenter=true&width=500&lines=Currently+Learning+%F0%9F%8C%99" />
+# 🌌 **Neon Cyberpunk Footer**
 
-🌙 Advanced React patterns  
-🌙 Data science workflows  
-🌙 UI/UX design systems  
-🌙 AI‑powered learning tools  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=FF00F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+with+AI+and+React." />
+</p>
 
-<br/>
-
-<!-- CONTACT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%94%AE" />
-
-**Email:** moishamayndlovu@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/moishandlovu/ 
-  
-
-</div>
+<p align="center">
+  <strong>Email:</strong> moishamayndlovu@gmail.com  
+  <br>
+  <strong>LinkedIn:</strong> https://www.linkedin.com/in/moishandlovu/
+</p>
